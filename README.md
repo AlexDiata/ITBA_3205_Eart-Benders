@@ -1,6 +1,6 @@
 # Landslide-risk-reduction-framework
 
-git Introduction
+ Introduction
 Problem Statement
 Significance of the proposed project
 Methods (kind of analysis na gagawin)
