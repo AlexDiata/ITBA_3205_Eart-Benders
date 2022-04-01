@@ -1,7 +1,6 @@
 # Landslide-risk-reduction-framework
 
-Introduction
-Introduction
+Introduction;
 Problem Statement
 Significance of the proposed project
 Methods (kind of analysis na gagawin)
