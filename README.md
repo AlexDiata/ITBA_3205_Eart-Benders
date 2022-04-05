@@ -1,4 +1,4 @@
-# Landslide-risk-reduction-framework
+# Landslide risk reduction framework
 
 
 ### Introduction
