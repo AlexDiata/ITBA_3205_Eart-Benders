@@ -11,8 +11,8 @@
 #### What policies should be implemented to mitigate the damaging effects that a landslide can have?
 #### What effects does a landslide have in terms of:
 ##### 1.1. Loss of life
- 1.2. destruction of infrastructure
- 1.3. damage to land and loss of natural resources
+##### 1.2. destruction of infrastructure
+##### 1.3. damage to land and loss of natural resources
 
 
 
@@ -21,4 +21,8 @@
 #### To the future researchers. The synthesis of data and analysis may be used to gain a better knowledge of the situation. This study will act as a guide and source of support for future research. The research will provide them with a solid basis and overview of the Landslide Risk Reduction-analyses Framework's and impacts.
 
 ### Methods (kind of analysis na gagawin)
-### Expected output (Like framework or policy sa nakitang problem or issue dun sa analysis from the data sets)
+### Expected output
+#### 1. For the people in the areas should be aware to landslide especially on those areas that are prone to landslide.
+#### 2. To remind the people to follow the policies on how to decrease the effects of landslide and avoid mining or any activities in the area that can cause landslide.
+#### 3. In the area that are prone to landslide to be aware of landslide and learn about the emergency response and evacuation plans in your area.
+
