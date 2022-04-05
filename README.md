@@ -10,9 +10,9 @@ Within this paper, we argue that citizen science the practice of incorporating t
 * What factors influence the occurrence of a landslide?
 * What policies should be implemented to mitigate the damaging effects that a landslide can have?
 * What effects does a landslide have in terms of:
-1. 1.1. Loss of life
-2. 1.2. destruction of infrastructure
-3. 1.3. damage to land and loss of natural resources
+ 1.1. Loss of life
+ 1.2. destruction of infrastructure
+ 1.3. damage to land and loss of natural resources
 
 
 
