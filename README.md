@@ -1,4 +1,4 @@
-# Landslide risk reduction framework
+# Landslide Risk Reduction Framework: Exploratory Data Analysis on Deforestation-Induced Landslides in the Philippines
 
 
 ### Introduction
