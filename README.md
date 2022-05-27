@@ -1,4 +1,4 @@
-# Landslide Risk Reduction Framework: Exploratory Data Analysis on Landslides in the Philippines
+# Landslide Risk Reduction Framework: Exploratory Data Analysis on Landslide Risks in the Philippines
 
 
 ### Introduction
