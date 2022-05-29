@@ -21,9 +21,9 @@ Strengthen resilience and adaptive capacity to climate-related disasters; integr
 
 #### 15 LIFE ON LAND
 
-Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
-
 <img src="https://user-images.githubusercontent.com/102807936/170882233-f7ed9c9e-e4f6-419d-9920-057a9b1d6bb6.png" width="250" height="250" />
+
+Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
 
 ### Problem Statement
 * What factors influence the occurrence of a landslide?
