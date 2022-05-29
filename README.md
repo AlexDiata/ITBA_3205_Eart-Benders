@@ -7,15 +7,17 @@
  
 We claim in this paper that citizen science, or involving the general public in the process of knowledge co-production, can help address this problem by expanding the knowledge base of stakeholders at various levels. The project's goal is to create evidence to support resilience by innovating participatory environmental monitoring. Our exploratory qualitative study outlines the current strategies used by local communities who are still living in landslide-affected areas. These include changes in demographics and patterns, changes in land use, and occupational diversification.
 ### Sustainable Development Goals (SDGs)
-#### 13 CLIMATE CHANGE
-Strengthen resilience and adaptive capacity to climate-related disasters; integrate climate change measures into policies and planning; build knowledge and capacity to meet climate change.
+#### 11-5 Reduce the Adverse Effects of Natural Disasters
+
+<img src="https://user-images.githubusercontent.com/102807936/170881487-b4358a83-a990-4daa-a45a-06b773be19c4.png" width="250" height="250" />
+
+By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.
+
+#### 13 CLIMATE CHANGE.
 
 <img src="https://user-images.githubusercontent.com/102807936/170879736-0dfdaabd-2f03-4811-b6de-61a08ecc1a17.png" width="250" height="250" />
 
-#### 11-5 Reduce the Adverse Effects of Natural Disasters
-By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.
-
-<img src="https://user-images.githubusercontent.com/102807936/170881487-b4358a83-a990-4daa-a45a-06b773be19c4.png" width="250" height="250" />
+Strengthen resilience and adaptive capacity to climate-related disasters; integrate climate change measures into policies and planning; build knowledge and capacity to meet climate change.
 
 ### Problem Statement
 * What factors influence the occurrence of a landslide?
