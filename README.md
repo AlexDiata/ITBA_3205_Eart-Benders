@@ -13,11 +13,17 @@ We claim in this paper that citizen science, or involving the general public in 
 
 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.
 
-#### 13 CLIMATE CHANGE.
+#### 13 CLIMATE CHANGE
 
 <img src="https://user-images.githubusercontent.com/102807936/170879736-0dfdaabd-2f03-4811-b6de-61a08ecc1a17.png" width="250" height="250" />
 
 Strengthen resilience and adaptive capacity to climate-related disasters; integrate climate change measures into policies and planning; build knowledge and capacity to meet climate change.
+
+#### 15 LIFE ON LAND
+
+Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+
+<img src="https://user-images.githubusercontent.com/102807936/170882233-f7ed9c9e-e4f6-419d-9920-057a9b1d6bb6.png" width="250" height="250" />
 
 ### Problem Statement
 * What factors influence the occurrence of a landslide?
