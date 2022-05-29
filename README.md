@@ -7,6 +7,8 @@
  
 We claim in this paper that citizen science, or involving the general public in the process of knowledge co-production, can help address this problem by expanding the knowledge base of stakeholders at various levels. The project's goal is to create evidence to support resilience by innovating participatory environmental monitoring. Our exploratory qualitative study outlines the current strategies used by local communities who are still living in landslide-affected areas. These include changes in demographics and patterns, changes in land use, and occupational diversification.
 ### Sustainable Development Goals (SDGs)
+#### 13CLIMATE CHANGE
+Strengthen resilience and adaptive capacity to climate-related disasters; integrate climate change measures into policies and planning; build knowledge and capacity to meet climate change.
 ### Problem Statement
 * What factors influence the occurrence of a landslide?
 * What policies should be implemented to mitigate the damaging effects that a landslide can have?
