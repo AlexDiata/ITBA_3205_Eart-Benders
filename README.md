@@ -9,7 +9,7 @@ We claim in this paper that citizen science, or involving the general public in 
 ### Sustainable Development Goals (SDGs)
 #### 13 CLIMATE CHANGE
 Strengthen resilience and adaptive capacity to climate-related disasters; integrate climate change measures into policies and planning; build knowledge and capacity to meet climate change.
-![CLIMATE CHANGE!](![Sustainable_Development_Goal_13](https://user-images.githubusercontent.com/102807936/170879736-0dfdaabd-2f03-4811-b6de-61a08ecc1a17.png | width= 100)
+![CLIMATE CHANGE!](![Sustainable_Development_Goal_13](https://user-images.githubusercontent.com/102807936/170879736-0dfdaabd-2f03-4811-b6de-61a08ecc1a17.png | width = 100)
 #### 11-5 Reduce the Adverse Effects of Natural Disasters
 By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.
 ### Problem Statement
