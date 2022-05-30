@@ -45,25 +45,25 @@ To the future researchers. The synthesis of data and analysis may be used to gai
 
 ### References
 * https://www.usgs.gov/faqs/what-landslide-and-what-causes-one - landslide
-https://www.usgs.gov/faqs/why-study-landslides - landslide
-https://education.nationalgeographic.org/resource/landslide - landslide
-https://eartheclipse.com/natural-disaster/causes-effects-and-types-of-landslides.html - landslide
-https://www.pnsn.org/outreach/earthquakehazards/landslides - landslide
-https://www.nationalgeographic.com/environment/article/deforestation - deforestation
-https://www.livescience.com/27692-deforestation.html - deforestation
-https://rainforests.mongabay.com/kids/lesson_plans/lisa_algee/deforestation.html - deforestation
-https://www.eniscuola.net/en/argomento/rain-forest/deforestation/the-causes-of-deforestation/ - deforestation
-https://www.sciencedirect.com/science/article/abs/pii/S0048969718343328 - landslide
-https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-020-00170-y - landslide
-https://www.frontiersin.org/articles/10.3389/feart.2021.616225/full - landslide
-https://www.degruyter.com/document/doi/10.1515/geo-2019-0059/html?lang=en - landslide
-https://iopscience.iop.org/article/10.1088/1755-1315/26/1/012031 - landslide
-https://www.theworldcounts.com/stories/deforestation-facts-and-statistics - deforestation
-https://www.infoentrepreneurs.org/en/guides/use-innovation-to-grow-your-business/ - innovated
-https://www.nanowerk.com/news/newsid=3290.php - innovated
-https://www.viima.com/blog/types-of-innovation - innovated
-https://www.iasp.ws/our-industry/the-role-of-stps-and-areas-of-innovation - innovated
-https://www.igi-global.com/dictionary/knowledge-in-science-and-technology-parks/91916 - innovated
+* https://www.usgs.gov/faqs/why-study-landslides - landslide
+* https://education.nationalgeographic.org/resource/landslide - landslide
+* https://eartheclipse.com/natural-disaster/causes-effects-and-types-of-landslides.html - landslide
+* https://www.pnsn.org/outreach/earthquakehazards/landslides - landslide
+* https://www.nationalgeographic.com/environment/article/deforestation - deforestation
+* https://www.livescience.com/27692-deforestation.html - deforestation
+* https://rainforests.mongabay.com/kids/lesson_plans/lisa_algee/deforestation.html - deforestation
+* https://www.eniscuola.net/en/argomento/rain-forest/deforestation/the-causes-of-deforestation/ - deforestation
+* https://www.sciencedirect.com/science/article/abs/pii/S0048969718343328 - landslide
+* https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-020-00170-y - landslide
+* https://www.frontiersin.org/articles/10.3389/feart.2021.616225/full - landslide
+* https://www.degruyter.com/document/doi/10.1515/geo-2019-0059/html?lang=en - landslide
+* https://iopscience.iop.org/article/10.1088/1755-1315/26/1/012031 - landslide
+* https://www.theworldcounts.com/stories/deforestation-facts-and-statistics - deforestation
+* https://www.infoentrepreneurs.org/en/guides/use-innovation-to-grow-your-business/ - innovated
+* https://www.nanowerk.com/news/newsid=3290.php - innovated
+* https://www.viima.com/blog/types-of-innovation - innovated
+* https://www.iasp.ws/our-industry/the-role-of-stps-and-areas-of-innovation - innovated
+* https://www.igi-global.com/dictionary/knowledge-in-science-and-technology-parks/91916 - innovated
 
 
 
