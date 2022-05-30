@@ -44,7 +44,7 @@ To the future researchers. The synthesis of data and analysis may be used to gai
 3. In the area that are prone to landslide to be aware of landslide and learn about the emergency response and evacuation plans in your area.
 
 ### References
-https://www.usgs.gov/faqs/what-landslide-and-what-causes-one - landslide
+* https://www.usgs.gov/faqs/what-landslide-and-what-causes-one - landslide
 https://www.usgs.gov/faqs/why-study-landslides - landslide
 https://education.nationalgeographic.org/resource/landslide - landslide
 https://eartheclipse.com/natural-disaster/causes-effects-and-types-of-landslides.html - landslide
