@@ -28,10 +28,6 @@ Protect, restore and promote sustainable use of terrestrial ecosystems, sustaina
 ### Problem Statement
 * What factors influence the occurrence of a landslide?
 * What policies should be implemented to mitigate the damaging effects that a landslide can have?
-* What effects does a landslide have in terms of:
- 1. Loss of life
- 2. destruction of infrastructure
- 3. damage to land and loss of natural resources
 
 
 
