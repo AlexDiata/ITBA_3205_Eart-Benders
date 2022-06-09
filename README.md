@@ -65,7 +65,7 @@ To the future researchers. The synthesis of data and analysis may be used to gai
 * https://www.iasp.ws/our-industry/the-role-of-stps-and-areas-of-innovation - innovated
 * https://www.igi-global.com/dictionary/knowledge-in-science-and-technology-parks/91916 - innovated
 ### Presentation
-Presentation: https://youtu.be/_JqhrPxl5hA
+Presentation: https://www.youtube.com/watch?v=WVbUt7-owVU
 
 
 
